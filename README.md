@@ -44,10 +44,6 @@ These are the technologies I've worked with.
 
 <b>My GitHub Stats</b>
 
-
-
-<a href="https://github.com/GRAviTY-GAGAN" align='right' ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 | S.No. |                        Project                         |                                      Tech-Stack                                       | Collaborative |    Role    | Span (Days) |                Clone of                 |
 | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------: | :--------: | :---------: | :-------------------------------------: |
 |   1   |    [Sandstrom](https://sandstorm-gsvr.netlify.app/)    |                               HTML, CSS and JavaScript                                |     `Yes`     | Team Lead  |      5      | [Nordstrom](https://www.nordstrom.com/) |
