@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/d29a7b1a-14a5-44ad-b817-461f70011114)
 
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BlueStar2519
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Full Stack Web Developer
 
@@ -43,8 +43,6 @@ These are the technologies I've worked with.
 ## Badges
 
 <b>My GitHub Stats</b>
-
-
 
 <a href="http://www.github.com/GRAviTY-GAGAN"><img style="padding-top: 50px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
